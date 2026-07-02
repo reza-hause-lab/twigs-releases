@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Twigs</title>
+    <link>https://raw.githubusercontent.com/reza-hause-lab/twigs-releases/main/appcast.xml</link>
+    <description>Twigs updates</description>
+    <language>en</language>
+    <!-- NEW_ITEMS_BELOW -->
+  </channel>
+</rss>
