@@ -8,12 +8,12 @@
     <!-- NEW_ITEMS_BELOW -->
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Tue, 07 Jul 2026 03:07:36 +0700</pubDate>
+      <pubDate>Tue, 07 Jul 2026 03:23:31 +0700</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Twigs 0.1.0 notarized universal DMG with bundled runtime frameworks, microphone entitlement, and Finder reopen handling.</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.0/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="wjrcH6d2vVphDfXfJ+e9zz8Tce1BA24HXC09ITMHk1+xwufF/lUpshwTCI3UEIEjJ+49mt9r+9n1wIQMXFg4AA==" length="48603568" />
+      <description><![CDATA[<ul><li>Twigs 0.1.0 notarized universal DMG with bundled runtime frameworks, privacy resource entitlements, and Finder reopen handling.</li></ul>]]></description>
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.0/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="NFsSAa/KVutSrg44iILCra6gwCXskftjHl+NTPOfgysBqNHTdllXithjLq7+Db6QEifYrzCbBQa3+KviS6SaDA==" length="48604024" />
     </item>
   </channel>
 </rss>
