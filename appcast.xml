@@ -8,12 +8,12 @@
     <!-- NEW_ITEMS_BELOW -->
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Tue, 07 Jul 2026 00:35:21 +0700</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:56:55 +0700</pubDate>
       <sparkle:version>0.1.0</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Twigs 0.1.0 notarized drag-to-Applications build from current main (71439fb).</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.0/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="BRMSoDlpNU/7LOjBc84j+CN2ikCrrWVcH+PnmOB/QjuX+oUTlx3C14sbbFH1MlNw+Hz0yVo/YJM15Z0no7hXBw==" length="45562991" />
+      <description><![CDATA[<ul><li>Twigs 0.1.0 notarized DMG with drag-to-Applications layout.</li></ul>]]></description>
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.0/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="MR5jk9+wdTyewLXgbG3mh34gnkbZN+fOijs1CEJjUDJC7/TZw+WZ3HIBmMzvRZ2HTCaZNAGSfZ4nxoqk+/VcBw==" length="45563066" />
     </item>
   </channel>
 </rss>
