@@ -13,7 +13,7 @@
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Twigs 0.1.1.</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.1/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="JQRT5cYWyLEun2r1pG7tQ+fj0x36W6tmarzi7OEMY69OePKatttzHZM1Es4ufju24uWLiMbZV6jAiookXKMDBA==" length="48610174" />
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.1/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="jhsaP62+VCercntTyCZzmyefwctOCuyUHN0IxBfhHxpp+7s2hu7TzNYlvXEemfJpAZgQe4Rm0dYtPT+B1PgMCg==" length="48610223" />
     </item>
     <item>
       <title>Version 0.1.0</title>
