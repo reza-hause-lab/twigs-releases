@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- NEW_ITEMS_BELOW -->
     <item>
+      <title>Version 0.1.3</title>
+      <pubDate>Sat, 11 Jul 2026 14:27:40 +0700</pubDate>
+      <sparkle:version>0.1.3</sparkle:version>
+      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>More reliable voice conversations, highlighted-region answers, and permission handling after updates.</li></ul>]]></description>
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.3/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="vXmRY6JmEjThf5hUAITht6UcmMa+mvi3k+gmuNTiSzs0/EyIncgBE8zR9jo4GL1NeSV2ko225mXY6DCZcI57Ag==" length="48792275" />
+    </item>
+    <item>
       <title>Version 0.1.2</title>
       <pubDate>Sat, 11 Jul 2026 00:46:41 +0700</pubDate>
       <sparkle:version>0.1.2</sparkle:version>
