@@ -9,11 +9,11 @@
     <item>
       <title>Version 0.1.5</title>
       <pubDate>Sat, 11 Jul 2026 19:20:49 +0700</pubDate>
-      <sparkle:version>0.1.5.1</sparkle:version>
+      <sparkle:version>0.1.5.2</sparkle:version>
       <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Twigs can now look up current information on the web in Ask and voice mode.</li><li>Local files, design tools, and coding editors can be read as screen context.</li><li>Chat answers stay open for reading, while the hover-only notch preview now tucks away when you move the cursor.</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.5/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="kgJthsbk4w7O4Th+BvDN0Pd1X/9OUlGkm5bV5hyIBFYei5J4hTskC8sLQI7GSndqythfPR80gwj/OwHz/rlmAA==" length="48787045" />
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.5/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="9p4FMy9YTNXkJXmXnbdhTHAKZiIWWFQpFBG3RESpbdFRnriJqhIMgs8PcmT2P6JvnQgxHo6TRp4mY00/rhDICA==" length="48803656" />
     </item>
     <item>
       <title>Version 0.1.4</title>
