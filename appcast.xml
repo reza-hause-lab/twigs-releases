@@ -7,6 +7,15 @@
     <language>en</language>
     <!-- NEW_ITEMS_BELOW -->
     <item>
+      <title>Version 0.1.8</title>
+      <pubDate>Mon, 13 Jul 2026 22:27:21 +0700</pubDate>
+      <sparkle:version>0.1.8</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Twigs 0.1.8.</li></ul>]]></description>
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.8/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="It3K/ZTrfEwC1/0zRmg1Iu4pnKZdVXCeEfUxFx68FuRAX1+VxBLbkPtUNbFCFqRIgamltDGc+zcn1y6rrbV1Cg==" length="48771558" />
+    </item>
+    <item>
       <title>Version 0.1.7</title>
       <pubDate>Mon, 13 Jul 2026 21:17:55 +0700</pubDate>
       <sparkle:version>0.1.7</sparkle:version>
