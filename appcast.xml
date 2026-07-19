@@ -8,12 +8,12 @@
     <!-- NEW_ITEMS_BELOW -->
     <item>
       <title>Version 0.1.8</title>
-      <pubDate>Sun, 19 Jul 2026 20:31:29 +0700</pubDate>
-      <sparkle:version>0.1.8.4</sparkle:version>
+      <pubDate>Sun, 19 Jul 2026 22:52:08 +0700</pubDate>
+      <sparkle:version>0.1.8.5</sparkle:version>
       <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Twigs can now analyze visible design canvases in Figma and similar tools from highlighted, typed, and voice requests.</li><li>Design-flow feedback is grounded in rendered screens, copy, calls to action, and visible layout while preserving app and site privacy controls.</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.8/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="v4YbBg/nvKbAUhtHhGcPuWXDFAYJj0Dd047cg5qSBAH2SKrh3652RwLOgBaY3VeYWkOgCnSnnpqQR27K4DztCA==" length="50470762" />
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.8/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="1/KrGBSXtDRiSzW0ysn9aBuw2XrssSvmk42kBqQO9iFGW0+TpZvA/bRnYTldIAIxsgWgXHF0q5ZvTOgIJZ3RAg==" length="50529486" />
     </item>
     <item>
       <title>Version 0.1.7</title>
