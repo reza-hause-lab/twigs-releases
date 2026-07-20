@@ -8,12 +8,12 @@
     <!-- NEW_ITEMS_BELOW -->
     <item>
       <title>Version 0.1.8</title>
-      <pubDate>Mon, 20 Jul 2026 04:38:58 +0700</pubDate>
-      <sparkle:version>0.1.8.6</sparkle:version>
+      <pubDate>Mon, 20 Jul 2026 21:51:46 +0700</pubDate>
+      <sparkle:version>0.1.8.7</sparkle:version>
       <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Typed chat, voice, and highlighted regions can now answer questions about visible layouts, images, charts, and designs.</li><li>Visual capture stays intent-driven, privacy-gated, pinned to the requested window, and ephemeral.</li></ul>]]></description>
-      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.8/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="gY9QnOniHl/U5XfxEbQc3H/AkpyainiLnSIwIhrhO98kcx3XUgS+TxEQRg0/+Qmg3Hvn6c7+7s4BpSh4Jo7OCQ==" length="50572556" />
+      <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.8/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="+kplUVZZX2+ZDu7WsYdzQhJi7MDrT9m4e2OEdSr8aIDcjiQgEW4/MsXRhGgL1hj+7wDbMxGHS+UFwLnPICWDDg==" length="50581730" />
     </item>
     <item>
       <title>Version 0.1.7</title>
